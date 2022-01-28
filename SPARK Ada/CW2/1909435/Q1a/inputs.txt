@@ -1,0 +1,17 @@
+1) Inputs when the system is activated:
+
+Enter the speed of the car: 60
+Enter the time (in seconds) it took for the speed to change: 1
+Enter the weight of the passenger: 60
+The airbag is:
+Activated
+
+
+2) Inputs when the system is not activated:
+
+Enter the speed of the car: 30
+Enter the time (in seconds) it took for the speed to change: 1
+Enter the weight of the passenger: 50
+The airbag is:
+Not Activated
+Do you want to try again (y/n)?
